@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            S/A sysadmin
 tagline:          "Free school of systems administration"
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      "Escola  <a href="http://jekyllrb.com" target="_blank">lliure</a> d'administració de sistemes"Made by <a href="http://sysadmin.cat" target="_blank">sysadmin.cat</a>.'
 url:              http://lanyon.getpoole.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'sysadmin.cat'
+  url:            https://sysadmin.cat
 
 paginate:         5
 
