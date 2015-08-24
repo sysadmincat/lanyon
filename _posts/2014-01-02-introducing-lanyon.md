@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Automation by scripting
 ---
 
 ## Learn shell scripting
