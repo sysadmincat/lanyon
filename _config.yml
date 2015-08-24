@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            S/A Free School of Systems Administration
-tagline:          "Escola lliure d'administració de sistemes"
+title:            S/A sysadmin
+tagline:          "Free school of systems administration"
 description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://lanyon.getpoole.com
 
