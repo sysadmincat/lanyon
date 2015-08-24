@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 18rem;
 }
 @media (min-width: 38rem) {
   .container {
@@ -379,7 +379,7 @@ a.pagination-item:hover {
 
 @media (min-width: 30rem) {
   .pagination {
-    margin: 1rem 0;
+    margin: 3rem 0;
   }
   .pagination-item {
     float: left;
