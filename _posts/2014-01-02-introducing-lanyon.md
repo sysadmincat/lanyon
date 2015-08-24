@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automation by scripting
+ti
 ---
 
 ## Learn shell scripting
